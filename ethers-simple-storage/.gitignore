@@ -1,0 +1,6 @@
+.env
+node_modules
+encryptKey.js	
+.encryptKey.js
+.encryptedKey.json
+	
